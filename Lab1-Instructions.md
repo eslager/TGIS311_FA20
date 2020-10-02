@@ -1,0 +1,52 @@
+# Lab 1: Making a website from scratch
+### Section 1: Introduction
+This lab is intended to help you dive into web development. In this lab you will develop a webpage from scratch and add some content to it. This document outlines the steps you should take to get started building a website and the required functionality that must be available in the final submission. 
+
+Labs in this class will not be step-by-step instructions. It is expected that if you don’t know how to do something that you attempt to find the answer, ask your peers, or come to me for guidance. I’ve included some helpful links at the end of this document that should be a good starting point for figuring out how to do specific tasks. 
+
+Your website should teach me something. It can be about anything as long as there is a coherent theme for the site. It should have interactivity and allow me to navigate around different subjects surrounding your topic. Use as many different types of media as you are comfortable with to help convey your point. Specific requirements can be found in this document in section 3, and grading rubric is available on Canvas. 
+
+### Section 2: Setup
+This unit's lecture videos went over how to get started using a text editor to write HTML code and open it in a web browser. This section will outline what we went over in those videos. 
+
+1. Download a text editor. I suggest Atom, but there are plenty of other ones out there (links at the end of this document). You’re welcome to use whatever editor you prefer.
+2. Make a new file called index.html and paste the following code into it. This starter html file is also available on Canvas.
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+	</head>
+	<body>
+		<h1>Hello World!</h1>
+	</body>
+</html>
+```
+3. Save the file and open it with your preferred browser. 
+4. If you need further reference check out the Week 1 Lecture notes.
+
+### Section 3: Requirements
+This section defines the minimum elements that your website must include. 
+1. A functional website with at least 3 different pages. When I run it there should be no errors.
+2. A title, paragraph headers, text content 
+3. At least 2 pictures (1 using a local image, and 1 using a URL pointer). Include alt text for all of your images. 
+4. Hyperlinks to navigate between pages
+5. Include a CSS FILE. Do not write CSS in the head of the HTML file.
+6. Define properties for at least 3 CSS selectors to dictate the styles of headers, paragraphs, images, or some other element
+7. Define at least 1 CSS class to dictates the style of an element you want to style uniquely
+8. Add color and change fonts to beautify the site
+
+### Section 4: Bonus Requirements
+If HTML and CSS are not new to you (or even if they are) and you want to challenge yourself to go beyond these requirements, by all means please do! Bonus points will be awarded on a case-by-case basis. Some ideas for additional things to include are: 
+
+1. Embed an iFrame (perhaps containing a map!)
+2. Instead of using text hyperlinks to navigate pages, use buttons 
+3. Design and implement a header bar for your website navigation
+
+### Section 5: Deliverables
+To complete this assignment, submit a zipped folder containing: 
+* All HTML files I need to run your website
+* Any CSS files you created for your website
+* Any local images required by your website
+* Any other files needed to run the website
+If you need a refresher on how to create a zipped folder, search "How to create a zip folder" + your operating system (i.e. Windows or Mac)
+
