@@ -9,7 +9,7 @@ Your website should teach me something. It can be about anything as long as ther
 ### Section 2: Setup
 This unit's lecture videos went over how to get started using a text editor to write HTML code and open it in a web browser. This section will outline what we went over in those videos. 
 
-1. Download a text editor. I suggest Atom, but there are plenty of other ones out there (links at the end of this document). You’re welcome to use whatever editor you prefer.
+1. Download and open a text editor. I suggest Atom, but there are plenty of other ones out there (links at the end of this document). You’re welcome to use whatever editor you prefer.
 2. Make a new file called index.html and paste the following code into it. This starter html file is also available on Canvas.
 ```html
 <!DOCTYPE html>
