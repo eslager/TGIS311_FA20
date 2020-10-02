@@ -25,14 +25,16 @@ This unit's lecture videos went over how to get started using a text editor to w
 4. If you need further reference check out the Week 1 Lecture notes.
 
 ### Section 3: Requirements
-This section defines the minimum elements that your website must include. 
-1. A functional website with at least 3 different pages. When I run it there should be no errors.
+Next, build out your website so that it includes three pages that are linked together with hyperlinks. Add meaningful content to those pages, and style the content with CSS. 
+
+At a minimum, your website must include the following: 
+1. At least 3 different pages that are fully functioning
 2. A title, paragraph headers, text content 
 3. At least 2 pictures (1 using a local image, and 1 using a URL pointer). Include alt text for all of your images. 
-4. Hyperlinks to navigate between pages
-5. Include a CSS FILE. Do not write CSS in the head of the HTML file.
+4. Hyperlinks to navigate between pages. Users should never hit a dead end. 
+5. Include a CSS file. Do not write CSS in the head of the HTML file.
 6. Define properties for at least 3 CSS selectors to dictate the styles of headers, paragraphs, images, or some other element
-7. Define at least 1 CSS class to dictates the style of an element you want to style uniquely
+7. Define at least 1 CSS *class* to dictates the style of an element you want to style uniquely
 8. Add color and change fonts to beautify the site
 
 ### Section 4: Bonus Requirements
@@ -48,5 +50,19 @@ To complete this assignment, submit a zipped folder containing:
 * Any CSS files you created for your website
 * Any local images required by your website
 * Any other files needed to run the website
+
 If you need a refresher on how to create a zipped folder, search "How to create a zip folder" + your operating system (i.e. Windows or Mac)
 
+### Section 6: Helpful links
+**Text Editors:**
+* Atom: https://atom.io/
+* Notepad++: https://notepad-plus-plus.org/ 
+* Sublime: https://www.sublimetext.com/ 
+
+**Reference documentation:**
+The internet is full of help, especially for HTML/CSS/JS developing. The hard part is deciphering what is useful for you. StackOverflow is very popular, but it’s sometimes complicated for beginners because it uses a message board format and it can be hard to find what you’re looking for. I suggest checking W3 Schools and Mozilla Developer Network (MDN) first. Both provide comprehensive reference guides and many helpful tutorials. See the links below: 
+* W3 Schools HTML: https://www.w3schools.com/html/default.asp  
+* W3 Schools CSS: https://www.w3schools.com/css/default.asp 
+* W3 Schools CSS classes: https://www.w3schools.com/cssref/sel_class.asp 
+* Mozilla Developer HTML: https://developer.mozilla.org/en-US/docs/Web/HTML 
+* Mozilla Developer CSS: https://developer.mozilla.org/en-US/docs/Web/CSS 
