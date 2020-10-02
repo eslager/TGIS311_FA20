@@ -60,6 +60,7 @@ If you need a refresher on how to create a zipped folder, search "How to create 
 * Sublime: https://www.sublimetext.com/ 
 
 **Reference documentation:**
+
 The internet is full of help, especially for HTML/CSS/JS developing. The hard part is deciphering what is useful for you. StackOverflow is very popular, but it’s sometimes complicated for beginners because it uses a message board format and it can be hard to find what you’re looking for. I suggest checking W3 Schools and Mozilla Developer Network (MDN) first. Both provide comprehensive reference guides and many helpful tutorials. See the links below: 
 * W3 Schools HTML: https://www.w3schools.com/html/default.asp  
 * W3 Schools CSS: https://www.w3schools.com/css/default.asp 
