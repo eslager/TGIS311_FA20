@@ -335,3 +335,6 @@ Now the legend should appear on the map itself. But it's hard to read. Let's add
 The final version of the map should look something like this!
 
 <iframe src="https://ejslgr.github.io/Leaflet-Intro/code-samples/earthquakes-ex5.html" style="width:100%; height:500px;"></iframe> [View this example on its own](https://ejslgr.github.io/Leaflet-Intro/code-samples/earthquakes-ex5.html)
+
+## Deliverables
+Save your Lab 2 Part 1 files in a repository on GitHub, host your files with GitHub Pages, and upload the link to your finished product on Canvas. 
