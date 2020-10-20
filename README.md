@@ -21,7 +21,7 @@ The map above is a very simple Leaflet map. You can pan, zoom, and click it, but
 
 View the code below with comments explaining what each part does:
 
-```
+```html
 <html>
 <head>
 	<title>Intro to Leaflet</title>
@@ -71,7 +71,7 @@ Shapefiles, as you no doubt know, are the default vector data format when workin
 
 Instead of storing data in tables, GeoJSON stores data in "key: value pairs." These are both machine readable and human readable. Here's an example:
 
-```
+```geojson
 { "type": "FeatureCollection",
   "features": [
     { "type": "Feature",
