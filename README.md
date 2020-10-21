@@ -47,7 +47,7 @@ View the code below with comments explaining what each part does:
 </html>
 ```
 
-Let's take a closer look at the JavaScript code that creates the map. Inside the <script> tags, we have code that:
+Let's take a closer look at the JavaScript code that creates the map. Inside the `<script>` tags, we have code that:
 
 1. Creates the map variable (named "`mymap`")
 2. Uses `L.map()` to initialize the map object, passing it the id of the div where we want the map to go
