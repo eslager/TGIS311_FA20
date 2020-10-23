@@ -1,3 +1,5 @@
+# Lab 2 Part 2: Leaflet with custom data
+
 ### Introduction
 This lab is an introduction to adding real datasets to an interactive web map built with the Leaflet web mapping service. For this lab, you will choose a topic (some natural or human-created phenomenon) and map static data to teach about that topic. You should use a minimum of two data sets, one that is a point layer and one that is a polygon or line layer. The data sets should be related to one another and to your topic. For example, many volcanoes are close to human settlements and present risks to people and places in their vicinities. On this topic, you could make a map that depicts the polygons that cover the anticipated path of lahar flows that would be produced by volcanic eruptions in Washington and a point layer of state-recognized historical sites that would be destroyed by the lahars. 
 
