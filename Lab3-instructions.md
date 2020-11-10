@@ -1,3 +1,5 @@
+# Lab 3: Web Mapping with MapBox GL JS
+
 ### Introduction
 
 For this lab you will create a single HTML page containing two maps that use the Mapbox GL JS API. Although Mapbox is different from Leaflet in some of its specifics, the basic process of initializing and controlling web maps with this framework is similar to Leaflet, so you will be able to apply what you learned in Lab 2 to the basic steps of Lab 3. For this reason, Lab 3 asks you to incorporate some more advanced functionality into your maps with fewer step-by-step instructions.  
