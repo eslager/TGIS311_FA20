@@ -32,20 +32,14 @@ Bonus points may be awarded for exceptional implementation of advanced functiona
 ### Resources
 
 Examples/tutorials for implementing advanced functionality with Mapbox GL: 
-
+* Documentation for adding GeoJSON to your map: https://docs.mapbox.com/mapbox-gl-js/style-spec/sources/#geojson
 * Basemap styling: https://docs.mapbox.com/help/tutorials/create-a-custom-style/
 * Custom icons: https://docs.mapbox.com/mapbox-gl-js/example/custom-marker-icons/ or https://docs.mapbox.com/mapbox-gl-js/example/add-image/
-
 * Display a popup on click: https://docs.mapbox.com/mapbox-gl-js/example/popup-on-click/
-
 * Geocoder: https://docs.mapbox.com/mapbox-gl-js/example/mapbox-gl-geocoder/
-
 * Conditional styling: https://docs.mapbox.com/help/tutorials/mapbox-gl-js-expressions/
-
 * Toggle vector layers: https://docs.mapbox.com/mapbox-gl-js/example/toggle-layers/
-
 * Toggle base map layers: https://docs.mapbox.com/mapbox-gl-js/example/setstyle/
-
 * Time slider: https://docs.mapbox.com/mapbox-gl-js/example/timeline-animation/
 
 ### Grading Rubric
@@ -53,10 +47,7 @@ Examples/tutorials for implementing advanced functionality with Mapbox GL:
 I’m going to try to get you used to less detailed rubrics as the program goes on. This is because being able to discern evaluation criteria from qualitative descriptions of expectations is an important professional skill. Further, as you get more accustomed to my grading style, this will become easier and easier for you to do. As we move in that direction, I will still provide a rough breakdown of how I will assign points for labs in this fall quarter.
 
 This lab will be worth 20 points:
-
 * 7 points will be possible for having two maps with at least one custom base map, custom icons, and a clickable layer
 * 9 points will be possible for successful implementation of at least two advanced functionality features
-
 * 4 points will be for general matters like code and file organization, overall page styling with CSS, and explanatory text/title(s)
-
 * Bonus points will be assigned on a case-by-case basis
