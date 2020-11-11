@@ -32,7 +32,8 @@ Bonus points may be awarded for exceptional implementation of advanced functiona
 ### Resources
 
 Examples/tutorials for implementing advanced functionality with Mapbox GL: 
-* Documentation for adding GeoJSON to your map: https://docs.mapbox.com/mapbox-gl-js/style-spec/sources/#geojson
+* Documentation for adding GeoJSON as a ```source``` to your map: https://docs.mapbox.com/mapbox-gl-js/style-spec/sources/#geojson
+  * See also the documentation for adding a layer, which takes the source property: https://docs.mapbox.com/mapbox-gl-js/style-spec/layers/ 
 * Basemap styling: https://docs.mapbox.com/help/tutorials/create-a-custom-style/
 * Custom icons: https://docs.mapbox.com/mapbox-gl-js/example/custom-marker-icons/ or https://docs.mapbox.com/mapbox-gl-js/example/add-image/
 * Display a popup on click: https://docs.mapbox.com/mapbox-gl-js/example/popup-on-click/
