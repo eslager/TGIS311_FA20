@@ -25,7 +25,6 @@ Your lab submission must:
 * Describe your initial plans for your Capstone project
 
 ### Additional resources
-This section will be updated soon with information about good sources of CSS/HTML templates, examples of portfolio sites from past students in the MSGT program, and a grading breakdown. 
 
 #### Finding and using HTML and CSS templates
 There are plenty of excellent templates available for free under Creative Commons licenses or similar, and I would recommend that you not pay for any. You must find a template that is responsive, meaning it will display well on different sized screens. 
