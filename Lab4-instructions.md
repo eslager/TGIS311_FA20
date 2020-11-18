@@ -25,7 +25,7 @@ To satisfy this lab, students must submit:
 * A URL link to a single HTML webpage that has data, maps and background information
   * Include all elements needed to communicate your story, such as title, maps, body text to provide background and context, charts or images, links to additional information, and references
   * The elements you include on your maps will vary based on the needs of your particular project
-  * Your page must include at least two maps that utilize one or more of the mapping frameworks we’ve learned this quarter (Leaflet or Mapbox, or an additional JS framework of your choice. A Google My Map embedded with an iframe will not count to this minimum). 
+  * Your page must include at least **two** maps that utilize one or more of the mapping frameworks we’ve learned this quarter (Leaflet or Mapbox, or an additional JS framework of your choice. A Google My Map embedded with an iframe will not count to this minimum). 
 * An accompanying write-up (1-1.5 pages; a word document or PDF, not part of your public-facing webpage but submitted to me on Canvas) that answers the following questions: 
   1.	What is the story you are trying to tell?
   2.	What spatial data best helps to strengthen that story?
@@ -34,7 +34,18 @@ To satisfy this lab, students must submit:
   5.	What web mapping framework(s) did you choose and why?
   6.	What interactions/plugins will users require to navigate the web maps?
 
-Grading Breakdown
+#### Grading Breakdown
 * 14 points possible for the web page and all it associated content
 * 6 points possible for the accompanying write-up
 
+#### Examples from previous students
+* https://ninakerr.github.io/Lab_5/lab5.html
+* https://ryanjmitchell.github.io/StoryMap.html
+* https://aadejong.github.io/geographic-literacy.html
+* https://lekirk.github.io/onehellofacompilation.html
+
+#### Other examples, including some more advanced examples for inspiration
+* https://blog.mapbox.com/adding-truth-to-the-election-debate-ad8d7b078362
+* https://heavy.com/news/2018/11/california-fire-map-near-me-november-9/
+* https://what-the-district.aclu.org/
+* https://blueheart.patagonia.com/discover
