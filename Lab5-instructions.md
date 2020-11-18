@@ -14,11 +14,11 @@ Finally, you should include a brief description of your initial plan for your Ca
 Your lab submission must: 
 * Be hosted online and reachable using a publicly available URL
 * Be a functional website with no broken links or loading errors
-* Uste an HTML/CSS template with a design that is effective for your purposes and which is responsive to different screen sizes
+* Use an HTML/CSS template with a design that is effective for your purposes and which is responsive to different screen sizes
 * Have a comment in the HTML code indicating from where the template was obtained (a URL to the source is sufficient) 
 * Include your name, educational credentials, and a brief professional bio about yourself
 * Incldue some means of contacting you; optionally, include links to any social media accounts you wish to include
-* Not have any filler text, lorem ipsum, or any other default content from teh template
+* Not have any filler text, lorem ipsum, or any other default content from the template
 * Include pages that display your Lab 2, 3, and 4 outputs from TGIS 503
 * Optionally include highlights (be selective and choose the best examples!) of your prior GIS work or other creative or professional outputs
 * Optionally include your CV or resume
@@ -26,3 +26,19 @@ Your lab submission must:
 
 ### Additional resources
 This section will be updated soon with information about good sources of CSS/HTML templates, examples of portfolio sites from past students in the MSGT program, and a grading breakdown. 
+
+#### Finding and using HTML and CSS templates
+There are plenty of excellent templates available for free under Creative Commons licenses or similar, and I would recommend that you not pay for any. You must find a template that is responsive, meaning it will display well on different sized screens. 
+
+**Suggested sources** (though you are welcome to use others): 
+* https://html5up.net/
+* https://www.html5webtemplates.co.uk/templates/
+* https://templated.co/
+
+Make sure that you leave a comment in the HTML/CSS/JS files with the origin of the template that you found (if it's not already included by the template author). Similarly, if you borrow just an element from another template, be sure to credit its author. 
+
+#### Examples of portfolio sites from previous MSGT students
+* https://setom.github.io/
+* https://kzeeb11.github.io/
+* https://ryanjmitchell.github.io/
+* https://mattsayler.com/
