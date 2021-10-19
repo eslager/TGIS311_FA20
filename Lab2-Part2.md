@@ -34,7 +34,7 @@ This lab must:
 * Be submitted as a URL link to a web page
 * Be contained on a single HTML page, with a link to an external style sheet for your page’s styling
 * Have a title & accompanying text to describe the phenomenon being mapped
-* Have a map that is stylized to encourage consumption of the data (not just generic markers & basemaps)
+* Have a map that is stylized to encourage consumption of the data and understanding of the map (not just generic markers & basemaps)
 * Zoom and set map extent to an appropriate location for displaying the data
 * Have clickable points or polygons that display some detail about the data (ex: clicking a point reveals the name of that point)
 * Include references for all data you did not produce yourself, including basemap imagery, GeoJSON overlays, custom icons, etc. 
@@ -43,6 +43,5 @@ This lab must:
 #### Bonus Requirements
 Bonus points may be awarded on a case-by-case basis for things like: 
 * Exceptional incorporation of plugin(s)
-* Incorporation of a (possibly interactive) legend
 * Exceptional design
 * Incorporation of additional data sets that enrich your map’s exploration of your topic
